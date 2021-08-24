@@ -1,0 +1,6 @@
+[submodule "webscrap-deso"]
+	path = webscrap-deso
+	url = https://github.com/nathanfeitoza/webscrap-deso.git
+[submodule "webscrap-energisa"]
+	path = webscrap-energisa
+	url = https://github.com/nathanfeitoza/webscrap-energisa.git
