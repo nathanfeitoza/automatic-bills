@@ -14,7 +14,7 @@ ou
 npm install
 ```
 
-E execute as dependências internas dos serviços.
+And run the internal dependencies of the services.
 
 ```shell
 yarn update:services
