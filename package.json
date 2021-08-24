@@ -1,0 +1,16 @@
+{
+  "name": "sheets-auto",
+  "version": "1.0.0",
+  "description": "A package to update google sheets data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "update:services": "cd webscrap-deso && yarn && cd ../webscrap-energisa && yarn"
+  },
+  "author": "Nathan Feitoza",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "googleapis": "39"
+  }
+}
